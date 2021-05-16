@@ -2,6 +2,7 @@
 #MaxHotkeysPerInterval 99000000
 #HotkeyInterval 99000000
 #KeyHistory 0
+#NoTrayIcon
  
 ; Border-less Maximized CTRL+ALT+F
 ^!f::
